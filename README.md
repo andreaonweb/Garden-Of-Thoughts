@@ -59,6 +59,8 @@ To run the app locally, follow these steps:
 
 This app was built as a team by:
 
+
+* [Andrea Olivera](https://github.com/andreaonweb) → Developer
 * [Montserrat Muñoz](https://github.com/Montc027) → Developer
 * [Paola Pulga](https://github.com/Pao-Pul) → Product Owner
 * [Daniella Pacheco](https://github.com/DaniPacheco8) → Developer

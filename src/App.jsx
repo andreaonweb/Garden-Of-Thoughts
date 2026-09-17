@@ -11,7 +11,7 @@ import tiktok from "./assets/tiktok.svg"
 import tw from "./assets/twitter.svg"
 import Animation from './components/addAnimation/Animation'
 import Moth from './components/addAnimation/Moth'
-import Bees from './components/addAnimation/bees' 
+import Bees from './components/addAnimation/Bees'
 
 function App() {
   const [phrases, setPhrases] = useState(initialPhrases)
